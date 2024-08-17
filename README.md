@@ -4,5 +4,6 @@
 2. Clone the repo under `.minecraft\saves`
 
 To download/sync, double click the file `download.bat`
+
 To upload, double click the file `upload.bat`
 
